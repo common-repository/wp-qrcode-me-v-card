@@ -1,0 +1,8 @@
+== Changelog ==
+
+= 1.0 - 2019-12-10 =
+First release with main functionality
+
+= 1.1 - 2020-01-15 =
+Add optional logo on center of QR code image.
+
